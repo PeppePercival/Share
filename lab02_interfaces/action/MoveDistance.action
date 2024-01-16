@@ -1,0 +1,9 @@
+# Goal
+float64 distance
+---
+# Result
+float64 elapsed_time_s
+float64 traveled_distance
+---
+# Feedback
+float64 remaining_distance

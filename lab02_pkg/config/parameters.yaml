@@ -1,0 +1,11 @@
+/turtle_teleop_key:
+  ros__parameters:
+    scale_angular: 5.0
+    scale_linear: 5.0
+    use_sim_time: true
+    
+/lab02/ActionServer:
+  ros__parameters:
+    scale_angular: 0.1
+    scale_linear: 0.5
+    scale_goal: 0.00001

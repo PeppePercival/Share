@@ -1,0 +1,7 @@
+# request
+float64 x
+float64 y
+---
+# response
+float64 distance 0.0
+float64 orientation 0.0
